@@ -1,0 +1,1 @@
+# Ejercicio aggregate usando group #
